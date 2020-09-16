@@ -1,2 +1,2 @@
-# discordrpgbot who, working
-dez
+# discordrpgbot
+Welcome guys
